@@ -1,0 +1,36 @@
+export const formSvg_780px = `<svg width="780px" height="470px" viewBox="0 0 780 470" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="780" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g>
+        <path d="M262.5,457.5 L262.5,391.5 L517.5,391.5 L517.5,457.5 L262.5,457.5 Z" id="btn" stroke="#929292" fill="#000000"></path>
+        <polygon id="Fill-1" stroke="#777777" fill="#FFFFFF" points="-5.68434189e-14 376 780 376 780 228 -5.68434189e-14 228"></polygon>
+        <polygon id="Fill-3" stroke="#777777" fill="#FFFFFF" points="401 136 780 136 780 76 401 76"></polygon>
+        <polygon id="Fill-4" stroke="#777777" fill="#FFFFFF" points="-5.68434189e-14 212 780 212 780 152 -5.68434189e-14 152"></polygon>
+        <polygon id="Fill-5" stroke="#777777" fill="#FFFFFF" points="-5.68434189e-14 136 379 136 379 76 -5.68434189e-14 76"></polygon>
+        <polygon id="Fill-8" stroke="#777777" fill="#FFFFFF" points="401 60 780 60 780 0 401 0"></polygon>
+        <polygon id="Fill-9" stroke="#777777" fill="#FFFFFF" points="-5.68434189e-14 60 379 60 379 3.55271368e-15 -5.68434189e-14 3.55271368e-15"></polygon>
+    </g>
+    <g id="Text" transform="translate(20.000000, 19.000000)" font-family="Poppins-Regular, Poppins" font-weight="normal">
+        <text id="Submit" font-size="18" letter-spacing="0.337500006" fill="#FFFFFF">
+            <tspan x="337.372237" y="413">Submit</tspan>
+        </text>
+        <text id="First-Name" font-size="16" letter-spacing="0.300000012" fill="#8C8C8C">
+            <tspan x="0" y="17">First Name</tspan>
+        </text>
+        <text id="Email" font-size="16" letter-spacing="0.300000012" fill="#8C8C8C">
+            <tspan x="0" y="93">Email</tspan>
+        </text>
+        <text id="Subject" font-size="16" letter-spacing="0.300000012" fill="#8C8C8C">
+            <tspan x="0" y="167.153061">Subject</tspan>
+        </text>
+        <text id="Message" font-size="16" letter-spacing="0.300000012" fill="#8C8C8C">
+            <tspan x="0" y="237.540816">Message</tspan>
+        </text>
+        <text id="Last-Name" font-size="16" letter-spacing="0.300000012" fill="#8C8C8C">
+            <tspan x="400" y="17">Last Name</tspan>
+        </text>
+        <text id="Address" font-size="16" letter-spacing="0.300000012" fill="#8C8C8C">
+            <tspan x="400" y="93">Address</tspan>
+        </text>
+    </g>
+</g>
+</svg>`;
